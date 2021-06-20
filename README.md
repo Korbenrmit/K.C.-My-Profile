@@ -18,7 +18,7 @@ I expect to learn many new things about technology during my studies such as how
 My ideal job would be in the game development industry, games have always been a big part of my life and I hope to one day work towards making them myself.
 This Game Developer job at GMT People is an example of an ideal job I am aiming to have one day.
 https://www.seek.com.au/job/52574657?type=standard#searchRequestToken=16153f20-51d7-4c1b-84bb-5743d2ceaf9c
-<img src= "https://user-images.githubusercontent.com/86160648/122665112-bb4dfb80-d1e8-11eb-8601-3b2cd14ad5ee.png" width="300" height="100">
+<img src= "https://user-images.githubusercontent.com/86160648/122665112-bb4dfb80-d1e8-11eb-8601-3b2cd14ad5ee.png" width="400" height="150">
 
 
 
