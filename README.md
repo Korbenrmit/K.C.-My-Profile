@@ -19,7 +19,9 @@ I expect to learn many new things about technology during my studies such as how
 My ideal job would be in the game development industry, games have always been a big part of my life and I hope to one day work towards making them myself.
 
 This Game Developer job at GMT People is an example of an ideal job I am aiming to have one day.
+
 https://www.seek.com.au/job/52574657?type=standard#searchRequestToken=16153f20-51d7-4c1b-84bb-5743d2ceaf9c
+
 <img src= "https://user-images.githubusercontent.com/86160648/122665112-bb4dfb80-d1e8-11eb-8601-3b2cd14ad5ee.png" width="400" height="150">
 
 This position involves using the Unity engine (a game developing engine) and code languages such as Javascript, CSS and HTML to design and develop 3D games. This position is of particular interest to me as it perfectly outlines what I am looking for in my ideal job, using tools alongside my own imagination and experience to create new games and more.
@@ -33,8 +35,7 @@ My plan to obtain these skills and qualifications for this job would be to conti
 ## Personal Profile
 
 ### MBTI Test Results : 
-![image](https://user-images.githubusercontent.com/86160648/122665205-3fa07e80-d1e9-11eb-9c6e-4ef8eb631638.png)
-
+<img scr= "https://user-images.githubusercontent.com/86160648/122665205-3fa07e80-d1e9-11eb-9c6e-4ef8eb631638.png" width="300" height="300">
 
 
 
