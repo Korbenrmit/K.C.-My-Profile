@@ -1,7 +1,7 @@
 Korben Cooper |
 Student ID : s3918082 |
 Email : s3918082@student.rmit.edu.au |
-<img src= "https://user-images.githubusercontent.com/86160648/122664985-ec79fc00-d1e7-11eb-9413-04b63b41697b.png" width="100" height="100">
+<img src= "https://user-images.githubusercontent.com/86160648/122664985-ec79fc00-d1e7-11eb-9413-04b63b41697b.png" width="200" height="200">
 
 Hello, my name is Korben, I'm 19 years old from Queensland, Australia. I completed grade 12 of high school in 2019. I can speak a small bit of Japanese as a result of the Japanese classes I took throughout high school and in 2017 I attended a school trip to Japan in which we learnt alot about the culture and the people there, including many things to do with IT and their technological advancements. 
 
