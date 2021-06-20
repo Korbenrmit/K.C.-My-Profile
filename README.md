@@ -83,6 +83,6 @@ If the project is a success then the resulting game aims to be a fun and enterta
 
 
 
-### Jekyll Themes
+
 
 
