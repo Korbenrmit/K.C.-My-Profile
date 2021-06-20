@@ -35,7 +35,7 @@ My plan to obtain these skills and qualifications for this job would be to conti
 ## Personal Profile
 
 ### MBTI Test Results : 
-<img scr= "https://user-images.githubusercontent.com/86160648/122665205-3fa07e80-d1e9-11eb-9c6e-4ef8eb631638.png" width="500" height="500">
+<img scr= "https://user-images.githubusercontent.com/86160648/122665247-7c6c7580-d1e9-11eb-8cd9-443c2f8e3baf.png" width="500" height="500">
 
 
 
