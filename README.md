@@ -30,6 +30,12 @@ My personal skills and qualifications do not reach those required for this posit
 
 My plan to obtain these skills and qualifications for this job would be to continue studying and learning new things through my current IT Degree. In programming classes I will learn more about coding and the specific languages involved in it such as Javascript and CSS. I will also begin using software like the Unity engine and Photoshop more in my personal time to better understand how they work and how to create new projects with them. After my IT Degree is finished my goal is to go into a Game Design Degree to further hone my knowledge and learn more specific skills relating to this career.
 
+## Personal Profile
+
+### MBTI Test Results : 
+![image](https://user-images.githubusercontent.com/86160648/122665205-3fa07e80-d1e9-11eb-9c6e-4ef8eb631638.png)
+
+
 
 
 ### Jekyll Themes
