@@ -35,7 +35,27 @@ My plan to obtain these skills and qualifications for this job would be to conti
 ## Personal Profile
 
 ### MBTI Test Results : 
-<img scr= "https://user-images.githubusercontent.com/86160648/122665247-7c6c7580-d1e9-11eb-8cd9-443c2f8e3baf.png" width="1000" height="1000">
+![image](https://user-images.githubusercontent.com/86160648/122665272-9d34cb00-d1e9-11eb-997e-7ad5709019bc.png)
+
+### Online Learning Style Test : 
+
+educationplanner - http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+
+![image](https://user-images.githubusercontent.com/86160648/122665294-ba699980-d1e9-11eb-8238-311ce4fb8be1.png)
+
+### Creativity Test : 
+
+mindtools - https://www.mindtools.com/pages/article/creativity-quiz.htm
+
+![image](https://user-images.githubusercontent.com/86160648/122665314-d79e6800-d1e9-11eb-95d0-46a5e37436b5.png)
+
+These results show me that I tend to learn some things slower then other might and it is easier for me to be visually shown how something works then to read and interpret the information myself. It also shows that I try to avoid issues in alot of cases for as long as I can instead of tackling them head on and solving them as fast as possible. I am also not a leader and I tend to prefer taking a more backseat role in a group and work independently. 
+
+This may influence my ability to work in a group and my behaviour in a group quite drastically. I will try to let others make the decisions for me and tell me what part of the work i have to do and if any issues or problems arise I will try to avoid being the one to fix them. I prefer working on my own and if I were to work in a group I would try to do smth in for the group that still involves working by myself.
+
+When forming a team, taking into account the results from my tests I would try to work with people who do not share the same anti-social characteristics I do. If i can form a team made up of people I find to be friends and who can help me feel more comfortable and who are very social amongst themselves it would be much easier for myself to be more involved and perhaps eliminate some of the personal issues I have with working in groups. 
+
+
 
 
 
