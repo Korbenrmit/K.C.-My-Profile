@@ -1,6 +1,6 @@
-Korben Cooper 
-Student ID : s3918082 
-Email : s3918082@student.rmit.edu.au
+Korben Cooper |
+Student ID : s3918082 |
+Email : s3918082@student.rmit.edu.au |
 
 Hello, my name is Korben, I'm 19 years old from Queensland, Australia. I completed grade 12 of high school in 2019. I can speak a small bit of Japanese as a result of the Japanese classes I took throughout high school and in 2017 I attended a school trip to Japan in which we learnt alot about the culture and the people there, including many things to do with IT and their technological advancements. 
 
